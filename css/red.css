@@ -1,0 +1,30 @@
+#logo{
+
+    background: #CA3413;
+   
+
+}
+
+
+#menu li:hover{
+    background: #CA3413;
+}
+
+
+.button-more{
+
+    background: #CA3413;
+
+    
+}
+
+body {
+    background: url('/proyecto-js/img/rojo.jpg');
+    background-attachment: fixed;
+}
+
+.ui-accordion-header{
+    border: 1px solid #CA3413!important;
+    background: #CA3413!important;
+    color: white !important;
+}
