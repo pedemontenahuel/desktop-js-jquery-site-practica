@@ -19,7 +19,7 @@
 }
 
 body {
-    background: url('/proyecto-js/img/cielo.jpg');
+    background: url('../img/cielo.jpg');
     background-attachment: fixed;
 }
     
