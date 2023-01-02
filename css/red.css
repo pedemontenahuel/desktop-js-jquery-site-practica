@@ -19,7 +19,7 @@
 }
 
 body {
-    background: url('/proyecto-js/img/rojo.jpg');
+    background: url('../img/rojo.jpg');
     background-attachment: fixed;
 }
 
